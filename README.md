@@ -6,9 +6,11 @@
 
 Following steps are discussed and supported with methods, tools or visualizations:
 
-* Business Understanding
+* Business understanding
 
-* Data Understanding
+* Data understanding
+
+* Data preparation
 
 * Modelling 
 
