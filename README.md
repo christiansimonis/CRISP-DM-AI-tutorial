@@ -27,6 +27,9 @@ Visualizations also accompany the CRISP-DM journey:
 </p>
 
 
+# Tutorial
+* [Start CRISP-DM Tutorial](https://github.com/christiansimonis/CRISP-DM-AI-tutorial/blob/master/Classic_ML.ipynb)
+
 
 
 # Contact
