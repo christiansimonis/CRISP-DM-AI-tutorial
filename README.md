@@ -32,7 +32,8 @@ Visualizations also accompany the CRISP-DM journey:
 # Tutorial
 * [Start CRISP-DM Tutorial](https://github.com/christiansimonis/CRISP-DM-AI-tutorial/blob/master/Classic_ML.ipynb)
 
-
+# Article
+* [Mastering Classic Machine Learning: A comprehensive guide through CRISP-DM](https://www.linkedin.com/pulse/mastering-classic-machine-learning-comprehensive-guide-simonis/)
 
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/christiansimonis/)
