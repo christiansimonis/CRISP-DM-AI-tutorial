@@ -1,7 +1,7 @@
 # Apply CRISP-DM 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/christiansimonis/crisp-dm/master/CRISP_DM.png" alt="CRISP-DM" style="width:80%; border:0;">
+<img src="https://media.licdn.com/dms/image/D4E12AQHtpcDiHRUOpg/article-inline_image-shrink_1000_1488/0/1678479386689?e=1689811200&v=beta&t=QhAiTfcbv07x7wHin2j6J9Ukdchv28dEjIzkjRL5jKY" alt="CRISP-DM" style="width:80%; border:0;">
 </p>
 
 Following steps are discussed and supported with methods, tools or visualizations:
@@ -20,13 +20,18 @@ Following steps are discussed and supported with methods, tools or visualization
 
 For example, a residual analysis is conducted, where we analyze that the residuals are fairly independent of the features and show no systematic patterns:
 <p align="center">
-<img src="https://raw.githubusercontent.com/christiansimonis/crisp-dm/master/Residuals.png" alt="Residuals" style="width:60%; border:0;">
+<img src="https://media.licdn.com/dms/image/D4E12AQH1xL0W6tJXrQ/article-inline_image-shrink_1000_1488/0/1675010069913?e=1689811200&v=beta&t=7gSFu1zng_JSi3UNW1XJ7k4nbUw8ILZF1_ULiDbcA-4" alt="Residuals" style="width:60%; border:0;">
 </p>
 
 Visualizations also accompany the CRISP-DM journey:
 <p align="center">
-<img src="https://raw.githubusercontent.com/christiansimonis/crisp-dm/master/3d_plot.png" alt="Model_3D" style="width:60%; border:0;">
+<img src="https://media.licdn.com/dms/image/D4E12AQGraZxeOZjZ9w/article-inline_image-shrink_1000_1488/0/1675010103603?e=1689811200&v=beta&t=Ys7v1DVgd0fbcWTirgCyRdBVhvj4FxghecG_tcm92L8" alt="Model_3D" style="width:60%; border:0;">
 </p>
+
+<p align="center">
+<img src="https://media.licdn.com/dms/image/D4E12AQHnbMAtVXoarQ/article-inline_image-shrink_1500_2232/0/1678478935822?e=1689811200&v=beta&t=ywIZCpI13tWsllG0eXwhna2Mcec7PZp_IVOX7ayyc1A" style="width:60%; border:0;">
+</p>
+
 
 
 # Tutorial
